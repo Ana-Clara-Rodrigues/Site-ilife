@@ -1,0 +1,91 @@
+td{
+margin: 0;
+text-align: center;
+width: 12%;}
+table {
+width:100%;
+height: 100vh;}
+td{ 
+width:100px;
+}
+
+.imagens{
+    width: 50%;
+}
+.menu a:hover{
+background-color: #ffffff;
+}
+.menu{
+    color: #000000;
+    margin: 0 20px;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 8px 16px;
+    border-radius: 20px;
+    transition: background 0.3s ease;
+}
+.menu a:visited{color: white;}
+
+.fundo{
+background: linear-gradient(160deg, #036675, #ffffff);
+}
+#logomarca{
+width: 150px;
+}
+#barraPesquisa{
+border-radius: 50px;
+width: 70%;
+height: 4vh;
+}
+.quemsomos{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(23, 42, 105);
+}
+.conteudo{
+    font-size: 50px;
+    text-align: center; 
+}
+.sobre{
+    font-size: 50px;
+    text-align: center; 
+}
+    .um{
+        width: 15%; 
+        height: 10%; 
+    }
+    .dois{
+        width: 40%;
+        height: 10%;
+    }
+    .tres{
+        width: 15%;
+        height: 10%;
+    }
+    .quatro{
+        width: 15%;
+        height: 10%;
+    }
+    .cinco{
+        width: 15%;
+        height: 10%;
+    }
+    .caixa{
+     border-radius: 50px;
+     width: 30%;
+     height: 4vh;
+     }
+     #enviar{
+        border-radius: 50px;
+        width: 30%;
+        height: 4vh;
+        background-color: #53c5d6;
+     }
+     .imgs{
+        width: 15%;
+        height: 10%;
+     }
+    .titulo{
+        text-align: center;
+        font-size: 150%;
+    }
